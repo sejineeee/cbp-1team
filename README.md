@@ -1,70 +1,49 @@
-# Getting Started with Create React App
+# 청년취업사관학교 기업연계형 프론트엔드 과정
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 프로젝트 소개
+경영 컨설팅 전문 기업의 기존 홈페이지를 해당 기업에서 제공한 기획서 및 스토리보드를 참고하여 개선하는 작업을 하였습니다.
 
-## Available Scripts
+### 프로젝트 기간
+```
+2022. 04 ~ 2022. 08
+```
 
-In the project directory, you can run:
+### 웹 배포 링크
+https://z-index999.netlify.app
 
-### `npm start`
+### 프로젝트 설치 및 실행 방법
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+#### 설치
+```
+npm i
+```
+#### 실행
+```
+npm start
+```
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### 프로젝트 팀원 및 역할
+| 팀원 | 역할 |
+| :---: | :---: | 
+| 서윤하 | 디자인, 투자/IR 세부 페이지, 랜딩 페이지, 메인 페이지(메인 배너, Partners, News & Columns, Global Network) 컨설팅 모달 기능, Top Button 기능, ENG/CHN 페이지, CRUD 기능, PPT 작업 |
+| 안혜지 | ZETA 페이지, Footer 영역, Bread Crumbs 기능, PPT 작업 |
+| **박세진** | Github 관리, 소식/자료 페이지, 메인 페이지(Information 영역), 로그인 페이지, json 및 데이터 작업 |
+| 정지혜 | 경영평가 페이지, 다크모드 기능, json 및 데이터 작업, 서기 |
+| 김혜인 | M&A / IPO 페이지, Header, 사이트맵 기능, json 및 데이터 작업, PPT 작업 |
+| 김지원 | 해외진출 페이지, 메인 페이지(Our Business, Performance, Investment 영역), json 및 데이터 작업, PPT 작업 |
 
-### `npm test`
+### 기술 스택
+- React
+- React-rounter-dom
+- SCSS
+- styled-components
+- Count-up
+- CKEditor
+- Swiper
+- Pagination
+- AOS
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### 협업 툴
+- Notion
+- Github
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
