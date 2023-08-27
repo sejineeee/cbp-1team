@@ -34,7 +34,7 @@ npm start
 
 ### 기술 스택
 - React
-- React-rounter-dom
+- React-router-dom
 - SCSS
 - styled-components
 - Count-up
